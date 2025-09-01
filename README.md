@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Kumar  
-**Risk Modelling | Risk Analytics | Quantitative Finance | Python & R**
-**Masters in Quantitavie Finance(QF) | Msc Financial Engineering**
+**Risk Modelling | Risk Analytics |Masters in Quantitative Finance | Python & R** |
+**Msc Financial Engineering**
 ---
 
 I am passionate about **quantitative modeling, stochastic processes, and risk analytics**.  
