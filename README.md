@@ -1,3 +1,7 @@
+ <img width="1080" height="270" alt="image" src="https://github.com/user-attachments/assets/80fa5ccc-cac0-40f5-a2e3-04b078dad2f8" />
+
+
+
 # Hi, I'm Rohit Kumar  
 **Risk Modelling | Risk Analytics |Masters in Quantitative Finance | Python & R** |
 **Msc Financial Engineering**
