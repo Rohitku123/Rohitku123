@@ -1,6 +1,7 @@
 # Hi, I'm Rohit Kumar  
 **Risk Modelling | Risk Analytics | Quantitative Finance | Python & R**
 **Masters in Quantitavie Finance(QF) | Msc Financial Engineering_WorldQuant University Washington, DC 20002, USA USA**
+---
 
 I am passionate about **quantitative modeling, stochastic processes, and risk analytics**.  
 I created **simulations, risk models, and financial analytics tools** to help make **data-driven decisions** in finance.
@@ -9,7 +10,7 @@ I created **simulations, risk models, and financial analytics tools** to help ma
 
 ##  Skills & Tools
 
-**Programming & Data Analysis:** Python, R, SQL, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly  
+**Programming & Data Analysis:** Python, R, Excel, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly  
 **Financial Modelling:** Monte Carlo Simulation, Geometric Brownian Motion, VaR, CVaR, Option Pricing, Portfolio Optimization  
 **Risk Analytics:** Market Risk, Credit Risk, Liquidity Risk, Stress Testing  
 **Version Control & Tools:** Git, GitHub, Jupyter Notebook, VS Code  
@@ -29,8 +30,8 @@ Simulates thousands of potential stock price paths using **Geometric Brownian Mo
 ### 2. Credit Risk Modelling
 Models **Probability of Default (PD)**, **Loss Given Default (LGD)**, and **Exposure at Default (EAD)**. Calculates **expected credit loss** for portfolios.  
 
-![Credit Risk Dashboard](https://raw.githubusercontent.com/Rohitku123/credit-risk-model/main/assets/credit_risk.png)  
-[Repository Link](#)
+![Credit Risk Dashboard]()  
+[Repository Link](https://github.com/Rohitku123/Credit-Risk-Modelling)
 
 ---
 
