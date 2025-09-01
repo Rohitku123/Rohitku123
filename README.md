@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Kumar  
 **Risk Modelling | Risk Analytics | Quantitative Finance | Python & R**
-**Masters in Quantitavie Finance(QF) | Msc Financial Engineering_WorldQuant University Washington, DC 20002, USA USA**
+**Masters in Quantitavie Finance(QF) | Msc Financial Engineering**
 ---
 
 I am passionate about **quantitative modeling, stochastic processes, and risk analytics**.  
